@@ -6,20 +6,21 @@ QA practices and test strategy implementation.
 ---
 
 ## At a Glance
-✅ Test planning and structured workflows  
-⚙️ Automation scripts and examples (Selenium, Robot Framework)  
-📝 Checklists for manual and automated test execution  
-📊 Sample test results and reports (anonymized)  
-🎯 Demonstrates professional QA practices and test strategy implementation  
 
+🗂️ Test plans, workflows and automation scripts  
+   (Designing and organizing structured test documentation)  
 
-## Overview
-Demonstrates :  
-- Designing and executing structured **test plans**  
-- Implementing **automation scripts** for regression and functional testing  
-- Documenting workflows, test cases and verification steps  
-- Applying **data-driven testing (DDT)** and **Page Object Model (POM)** principles  
-- Managing **anonymized, real-world QA practices** safely  
+⚙️ Manual and automated testing practices  
+   (Balancing exploratory, scripted and automated test approaches)  
+
+📝 Strategy and QA methodology examples  
+   (Applying real-world QA processes and techniques)  
+
+📊 Reports and test evidence (anonymized)  
+   (Documenting results for traceability and review)  
+
+🎯 End-to-end QA workflows  
+   (Bringing together planning, execution, reporting practices)  
 
 
 ## Structure
@@ -29,4 +30,20 @@ Demonstrates :
 ├─ 📁 reports/ → Test execution results and verification logs  
 └─ README.md
 
-  
+
+## 🔗 Related Repositories
+```yaml
+jobs:
+  - name: DeploymentPlaybook
+    role: Deployment procedures & verification (IDM, Salesforce, CI/CD)
+    repo: github.com/LoubnaEA/DeploymentPlaybook
+
+  - name: TestDriveSelenium
+    role: Data-driven automation with Selenium & POM
+    repo: github.com/LoubnaEA/TestDriveSelenium
+ ``` 
+
+[github.com/LoubnaEA/DeploymentPlaybook](https://github.com/LoubnaEA/DeploymentPlaybook)   
+[github.com/LoubnaEA/TestDriveSelenium](https://github.com/LoubnaEA/TestDriveSelenium)  
+
+
