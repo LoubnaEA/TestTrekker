@@ -1,33 +1,25 @@
 # TestTrekker
-Centralized repository for **test management, automation and QA documentation**.  
-Test plans, workflows and automation scripts for manual and automated testing.   
-QA practices and test strategy implementation.
+Test plans, workflows and automation scripts for manual and automated testing.  
+Focused on implementing **QA practices** and **test strategy** in a structured way.
 
 ---
 
 ## At a Glance
+📄 Test plans and workflows  
+   (Organized approach for test design and execution)  
 
-🗂️ Test plans, workflows and automation scripts  
-   (Designing and organizing structured test documentation)  
+🖥️ Automation scripts  
+   (Sample scripts for UI and functional testing)  
 
-⚙️ Manual and automated testing practices  
-   (Balancing exploratory, scripted and automated test approaches)  
-
-📝 Strategy and QA methodology examples  
-   (Applying real-world QA processes and techniques)  
-
-📊 Reports and test evidence (anonymized)  
-   (Documenting results for traceability and review)  
-
-🎯 End-to-end QA workflows  
-   (Bringing together planning, execution, reporting practices)  
+⚙️ QA practices applied  
+   (Verification, traceability, reusable methodology)
 
 
 ## Structure
-├─ 📁 docs/ → Test plans, workflows, guidelines  
-├─ 📁 scripts/ → Automated test scripts and examples  
+├─ 📁 docs/     → Test plans and workflow documentation  
+├─ 📁 scripts/  → Automated test scripts and examples  
 ├─ 📁 examples/ → Sample test data and test reports  
-├─ 📁 reports/ → Test execution results and verification logs  
+├─ 📁 reports/  → Test execution results and verification logs  
 └─ README.md
 
 
@@ -46,4 +38,9 @@ jobs:
 [github.com/LoubnaEA/DeploymentPlaybook](https://github.com/LoubnaEA/DeploymentPlaybook)   
 [github.com/LoubnaEA/TestDriveSelenium](https://github.com/LoubnaEA/TestDriveSelenium)  
 
+
+## Notes
+Workflows, test plans, automation scripts are **generalized** and **anonymized** :  
+-- No real user data or sensitive information  
+-- Focus on **QA methodology** and s**tructured testing practices**
 
