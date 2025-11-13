@@ -5,14 +5,9 @@ Focused on implementing **QA practices** and **test strategy** in a structured w
 ---
 
 ## At a Glance
-📄 Test plans and workflows  
-   (Organized approach for test design and execution)  
-
-🖥️ Automation scripts  
-   (Sample scripts for UI and functional testing)  
-
-⚙️ QA practices applied  
-   (Verification, traceability, reusable methodology)
+- **Test plans and workflows** (organized approach for test design and execution)  
+- **Automation scripts** (sample scripts for UI and functional testing)  
+- **QA practices applied** (werification, traceability, reusable methodology)
 
 
 ## Structure
